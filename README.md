@@ -1,1 +1,2 @@
-# db_midterm
+# Midterm
+# Feruz Ubaydullaev 12204578
