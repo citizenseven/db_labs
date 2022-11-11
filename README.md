@@ -1,1 +1,2 @@
-# week5
+# Feruz Ubaydullaev
+# 12204578
