@@ -1,1 +1,2 @@
-# db_week12
+# Feruz Ubaydullaev
+# 12204578
