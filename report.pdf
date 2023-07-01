@@ -1,11 +1,0 @@
-             Group Assignment 1
-
-First the grade is converted to grade points, then obtained grades for all courses is
-calculated and divided by maximum grades possible for all courses which is also
-calculated in advance. So, the result is a GPA of each student.
-
-Since we already calculated GPAs of all students, we just use it right away. The
-data is categorized based on the GPA requirements given. The categories get
-created and the number of students belonging to each category is counted. At
-last, the response is grouped by categories.
-
